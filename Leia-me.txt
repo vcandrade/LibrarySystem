@@ -1,0 +1,5 @@
+Algumas considerações ao executar o projeto:
+
+Dentro da pasta "\src\teste\API" tem as duas API que usei para testes, lembrar de importa-las.
+Executar o script do banco de dados ("src\banco_sql") em MySQL.  A configuração do banco se encontra em "src\teste\AcessoBanco.java"
+Confira sua versão do JDK, acredito que as interfaces JavaFX funcionem somente a partir da versão 1.8.
